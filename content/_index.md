@@ -4,10 +4,13 @@ portraitImage = "/portrait.png"
 introTitle = "Introduce yourself here!"
 introBody = "Give the audience a little summary/introduction about what to expect in this ASCII, black and white, pixel focused theme."
 
-statusImage = "/status.png"
-statusText = "A way to let everyone know what you're up to..."
+homePicture1 = "/status.png"
+homePictureAltText1 = "Alt 1"
+homeTitle1 = "Home Title 1"
+homeText1 = "Home Text 1"
 
-watchingImage = "/watching.png"
-watchingText = "How to create a Hugo theme from scratch — Berkay Çubuk // HugoConf 2023"
-watchingUrl = "https://www.youtube.com/watch?v=0WJ2lWNhqm8"
+homePicture2 = "/status.png"
+homePictureAltText2 = "Alt 2"
+homeTitle2 = "Home Title 2"
+homeText2 = "Home Text 2"
 +++
