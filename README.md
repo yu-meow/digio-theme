@@ -1,3 +1,5 @@
+This is a fork of the digio-theme by [dana](https://github.com/danapixels) modified by [Yuki](https://github.com/yu-meow) for adjustments on my personal website.
+
 # Digio theme
 ### A pixel, ASCII, minimal, retro theme for [Hugo](https://gohugo.io/).
 
